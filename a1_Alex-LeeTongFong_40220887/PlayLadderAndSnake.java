@@ -1,13 +1,5 @@
-//-------------------------------
-// Assignment 1
-// Question 1
-// Written by: Alex Lee Tong Fong Student id 40220887
-//-------------------------------
-
-/** Alex Lee Tong Fong ID 40220887
- * COMP249
- * Assignment #1
- * Due Date Feb.6 2023
+/*
+ * Date Feb.6 2023
  */
 
 import java.util.Scanner;
